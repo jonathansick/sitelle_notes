@@ -96,3 +96,16 @@ Possible targets for SV:
 - Bright HII regions split over two needs to test partial OG observing
 
 **Issues**: Can we do something like SCAMP astrometry for SITELLE?
+
+## SITELLE Optics (Thibault)
+
+Goals: need 11x11 arcmin design. Need to get lines at 370 nm. Need to design for wavefront image quality at pupil. Lots of expensive 20 cm lenses with calcium fluoride coatings for NUV. Lots of choices to make when designing optics! Lots of compromises too.
+
+*Potentially 80% vignetting in the corner.*
+
+**Optical cost: $170K.** 200 mm lens alone costs $35K (manufacturer didn't want to coat it; need to heat and cool such a lens slowly for coating).
+
+
+
+
+
