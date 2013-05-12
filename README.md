@@ -177,9 +177,21 @@ Science questions
 - turbulence may be a *source* of energy (where temperature is higher).
 - abundances determined from collision lines different from recombination lines (2-3 for HIIR; up to factor five for PNe!) Yikes.
 
-Another problem is that ionization model codes aren't fully 3D. No code includes gas dynamics either.
+Another problem is that photoionization model codes aren't fully 3D. No code includes gas dynamics either.
 
 M42 may be good for SV because it will display internal reflections, chip defects, etc. because there is so much signal.
+
+## Ionization Temperature Fluctuations (Oliviera)
+
+**Abundance discrepancy problem.** We need to reconcile recombination and collisionally excited lines. Peimbert (1967) proposed that electron temperature fluctuations explain the AD problem.
+
+OIII (L4959 + 5007)/4363 to estimation t^2, the electron temperature fluctuations.
+
+Observational approach: poor-man's IFU with stepped long-slit spectroscopy of NGC 2579. SITELLE will fix this.
+
+Some tricks: t^2 is modelled in 3D, but observed in 2D. Lots of thought must go into line choices.
+
+
 
 
 
