@@ -2,6 +2,9 @@
 
 *Notes from the SITELLE Workshop, May 12 — 14.*
 
+****
+
+# Sunday Morning
 
 ## Laurent
 
@@ -130,3 +133,23 @@ Na tail first discovered with Schmidt objective prism in 1960. Rediscovered with
 C/2012 S1 ISON will peak at V= -4 mag; perihelion passage in November 2013. Good target for SV? Trick is proximity to sunrise!
 
 Real interest is to see where these species originate from the nucleus/coma.
+
+## Commentary
+
+*Devost:* Large Program call. February 2014 deadline? Hopefully the commissioning will tell us enough about SITELLE. May be only one round of LPs for SITELLE. We also need to ensure that SITELLE is not a niche instrument.
+
+**Laurent:** pressure on getting photometric accuracy. Note that calibration procedures evolve.
+
+**Morrison:** Some concern with building data cubes over several nights. This hasn't been done with SpiOMME.
+
+Science Verification is a good time to try out large program observations. **This is encouraged.** Devost envisions setting up a SITELLE TAC to setup a program for science verification.
+
+This week: develop SV programs. And choose filters!
+
+**Question about mosaicing.** There *will* be a loss of spectral resolution from centre to edge. But this only relevant for very high R. Shouldn't be an issue for R=5000.
+
+**Bureau:** FTS for dummies document? We need to know how to convince the TAC that FTS is the right tool for the job.
+
+**Mandar:** For absorption lines: just use a really tight filter around the line. That will solve the continuum noise problem. Again, we need to design a set of filters. Also note that for a tight filter, you need long steps, which will impact the readout time. Want to read out only as slowly as the mirror moves to optimize read noise.
+
+****
