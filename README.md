@@ -264,4 +264,16 @@ Note: can't just do narrowband MegaCam imaging b/c you need to careful about con
 
 Spectroscopic follow-up to GAIA?
 
+## Dynamics of Ionized Gas Outside Galaxies (Guillard)
+
+Spitzer found H2 bright galaxies powered by intense turbulence. (see Guillard 2009). e.g. Stephan's quintet. See a Giant Shock along with star formation. Shock also seen in [Cii] 158 µm.
+
+SITELLE can answer what the role of turbulence is *in regulating star formation*. SITELLE can trace ionized gas in/outside galaxies in 
+
+- galaxy collision
+- galaxy cluster
+- ram pressure stripping
+- AGN/starburst
+
+environments.
 
