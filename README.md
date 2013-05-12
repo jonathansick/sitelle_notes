@@ -228,5 +228,21 @@ Global asymmetry in wind causes continuum polarization by Thomson scattering.
 
 If nebula was ejected during the WRs rotation, then gas kinematics should reflect that rotation. Ideal project for SITELLE since you can observe the 2D velocity field. W6 is huge: 40'x40'. More WR nebulae are about 10 arcmin though. Models don't exist for these winds. Most modelling has been done for B stars (Connection to MIMES project?). Use Ha and [OIII] for this project, simply on basis for S/N for kinematics. Add in more lines to get ionization structure at the same time.
 
+## Hyperspectral Observations of Cas A (Alarie)
 
+Lots of good Great Observatory coverage (HST, Spitzer, GALEX). SNIIb remnant (?). Here we look at SpIOMM 645-700 nm bandpass. 4 arc min sq. object.
+
+*n.b.: Winner of best slide transitions.*
+
+Sulfur doublet, NII, Halpha.
+
+Reconstruct a 3D view of the nebula from kinematics (assumes spherical expansion?). There's a deconvolution equation that goes unexplained.
+
+Some structures aren't moving: **Quasi Stationary Floculi**. Might have been ejected prior to the nebula. As the main nebular passed by, they are lit up.
+
+Seems to be unusually nitrogen rich.
+
+Multi-epoch observations between 2000 and 2009 with HST. Get transverse velocity. Traced 3500 knots and manually mapped their displacement vectors. The expansion is actually faster on the outside! Trace expansion inwards: estimate site of explosion. It seems that the star (or nebula) has moved relative to the explosion site.
+
+To get total velocity (combining radial and transverse), need a distance estimate. He uses spherical symmetry; finds D to make traverse velocity and radial velocities balance. *D=3.33 kpc*. Under this assumption, he gets a 'true' 3D map of Cas A.
 
