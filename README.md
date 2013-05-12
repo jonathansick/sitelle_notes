@@ -204,6 +204,22 @@ Sources of density and temperature structures
 
 Overall, a neat demonstration of what can be done with 2D spectroscopy.
 
+## HII Region Kinematics and Star Formation (Russell)
+
+Expansion of HIIR can trigger SF (see Blegling et al 2009, recently).
+
+Herschel observations at 100, 250 and 500 µm. Can directly see SF on edges of HIIRs. Good examples are pillars of creation. See Dehaveng et al 2012.
+
+H alpha Fabry-Perot observations along plane of MW. Not a simple match between Halpha FWHM and LOS velocity map. Means of course that there are internal kinematics in HIIRs.
+
+What can SITELLE do (in conjunction with Herschel obs.)?
+
+- Link dust properties with HIIR properties
+- Understand HIIR impact on ISM
+- Understand triggers for SF
+
+Want to survey different morphologies fo HIIR (blister; champagne phase, pillars, etc). Select from Herschel surveys. Survey different regions of the galaxy.
+
 
 
 
