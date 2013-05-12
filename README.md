@@ -44,6 +44,7 @@ Thus we have three years to use SITELLE. We need to build large programs to coll
 - SNAGS
 - NGVS follow-up?
 
+
 ## SITELLE Design, Performance and Progress Report (Julie Mandar)
 
 Bigger instrument (compared to SpiOMM), so flexure is more of a consideration.
@@ -55,3 +56,43 @@ How to make a two-port output: angles or corner cubes. Corner cubes require outs
 NUV performance requires v. flat optics under gravity and temperature changes (servo control very important).
 
 Mirror vibration -> path length changes (breathing) -> hurts modulation efficiency. Any tilt can also hurt. Need 0.5 µrad tilt maximum.
+
+Design weight started at a tonne! Now 400 kg. Carbon fibre is used to build the instrument chassis! Cool stuff.
+
+
+## SITELLE at CFHT (Daniel Devost)
+
+It records fringes! Records many images that need to be indexed in a DB (probably WIRCam-style in data volume). Great datareduction is critical for getting high-impact papers out quickly.
+
+Pipelines need to be scalable and reliable. A CFHT astronomer validates products. A *realtime* version is required for QSO observers.
+
+Suggestions for algorithm testing and integration are welcome! (*nb.* I can vouch for this with WIRCAM).
+
+E.g. MegaCam was originally designed for point source photometry. New Elixir-LSB mode added (there's a new SNR model for ELSB; need to talk about this with JCC). With WIRCam, a staring mode was added.
+
+### ORBS Pipeline (Martin)
+
+This pipeline will be integrated almost entirely into the system. Just needs to add a RT variant. Funding for Martin to work on-site for a year to champion the pipeline (much like JCC's role).
+
+Possibility of providing PIs with analysis tools! E.g. a DS9 SITELLE (already DS9 variants for MegaCam and WIRCam exist for real-time interactive analysis).
+
+### Science Verification Program (Glenn Morrison)
+
+- 10--15 nights of science verification (SV) observations. This data will end up in the CFHT archive; public two months after SV ends. Starts after 3 month engineering verification phase.
+- Need to develop/test PH2 and exposure time/planning tools for SITELLE observers.
+- CFHT's power is in partial observing groups (i.e., can pick up observations from one night to next; currently a 36 hr window is possible.)
+- Test sensitivity goals: 4 hr: 5 sigma flux: 4E-17 erg/s/cm2
+- Non-sidereal guiding? e.g. comet physics
+- Tests for PSF variations/distortions
+- Data cube alignment? SpIOMME uses stars to re-align the datacube? Might be possible to get away without this if fluxure is solved in ORBS.
+- Binning modes: 1, 2, 4
+- Max datacube size is 1088 slices (this might be a limitation of overheads in high-res UV observations; want to restrict OBs over
+
+Possible targets for SV:
+
+- Comet. *Some timely bright comets are coming.*
+- PN in elliptical galaxies
+- Ly alpha in a COSMOS field
+- Bright HII regions split over two needs to test partial OG observing
+
+**Issues**: Can we do something like SCAMP astrometry for SITELLE?
