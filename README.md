@@ -191,6 +191,18 @@ Observational approach: poor-man's IFU with stepped long-slit spectroscopy of NG
 
 Some tricks: t^2 is modelled in 3D, but observed in 2D. Lots of thought must go into line choices.
 
+## M27 Temperature and Density Structures (Lagrois)
+
+Observations are a combination of four data cubes made with SpiOMM. Had to rebuilt red cube with an even narrower filter to get enough S/N. Things to think about with FTS...
+
+SII as a density ind. NII for temperature. OI emission hidden inside dust clouds!
+
+Sources of density and temperature structures
+
+- shocks. Ionization maps show increased excitation at shell. Some sort of shock? Perhaps see polar shocks at either end of M27??? Don't see much temperature enhancement. 1.5x density enhancement (in fact could see cooling in the compression).
+- turbulence. It looks like SII and NII are cospatial, so they can be used together to solve both temperature and density. Find turbulence as deviations from large scale kinematics.
+
+Overall, a neat demonstration of what can be done with 2D spectroscopy.
 
 
 
