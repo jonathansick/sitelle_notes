@@ -105,6 +105,19 @@ Goals: need 11x11 arcmin design. Need to get lines at 370 nm. Need to design for
 
 **Optical cost: $170K.** 200 mm lens alone costs $35K (manufacturer didn't want to coat it; need to heat and cool such a lens slowly for coating).
 
+Note that the optics themselves have a resolution of 0.85"; seeing is typically 0.65". Thus typical effective seeing is 1" for SITELLE images.
+
+## Detectors (Marc Baril)
+
+CFHT is handling the CCD system integration/software.
+
+100 foot cryostat lines!
+
+CCD cooled to -100˚C. Will need a fast clock rate to read in 3 seconds (250 kHz). Total cycle time is 3.5 seconds (including CCD clearing; shutter settling).
+
+Cross-talk less than 0.1%.
+
+*Noise associated with grounding the inputs. This will be debugged...* Should get readout noise below 5 electrons. Gain 1.8 ADU/e
 
 
 
