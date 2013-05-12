@@ -153,3 +153,33 @@ This week: develop SV programs. And choose filters!
 **Mandar:** For absorption lines: just use a really tight filter around the line. That will solve the continuum noise problem. Again, we need to design a set of filters. Also note that for a tight filter, you need long steps, which will impact the readout time. Want to read out only as slowly as the mirror moves to optimize read noise.
 
 ****
+
+# Monday Afternoon
+
+## HII Regions (Gilles Joncas)
+
+HII regions have ionization structures, reflecting radiation fields, temperatures, electron densities, etc..
+
+Kinematic structure: gas flows, turbulence (Reynolds number ~ 10^6), stellar winds.
+
+Diagnostic line ratios give you temperatures, densities (their solutions are covariant). You should solve these with diagnostic lines of similar ionization potentials to ensure you're mapping the same ionization structure. Don't use Temperature of OIII to get (O/H) abundances! Also need Ha/Hb to get extinction structure.
+
+To do a proper job:
+
+- 370 to 955 nm
+- Absolute calibration
+- Large enough R to avoid night sky line blending. Note that we need to patch different spectral domains together.
+
+Science questions
+
+- velocity fluctuations (turbulence)
+- density fluctuations (irregular boundaries)
+- turbulence may be a *source* of energy (where temperature is higher).
+- abundances determined from collision lines different from recombination lines (2-3 for HIIR; up to factor five for PNe!) Yikes.
+
+Another problem is that ionization model codes aren't fully 3D. No code includes gas dynamics either.
+
+M42 may be good for SV because it will display internal reflections, chip defects, etc. because there is so much signal.
+
+
+
