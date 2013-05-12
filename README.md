@@ -119,6 +119,14 @@ Cross-talk less than 0.1%.
 
 *Noise associated with grounding the inputs. This will be debugged...* Should get readout noise below 5 electrons. Gain 1.8 ADU/e
 
+## Cometary Science (Rousselot)
 
+CFHT got spectra of Halley's comet back in 1985.
 
+SITELLE could be great for understanding the wide-field ionization structure of a comet.
 
+Na tail first discovered with Schmidt objective prism in 1960. Rediscovered with Na filter on Hale-Bopp in 1997. Origin of Na tail is unclear. Ejected from dust grains?
+
+C/2012 S1 ISON will peak at V= -4 mag; perihelion passage in November 2013. Good target for SV? Trick is proximity to sunrise!
+
+Real interest is to see where these species originate from the nucleus/coma.
