@@ -220,6 +220,13 @@ What can SITELLE do (in conjunction with Herschel obs.)?
 
 Want to survey different morphologies fo HIIR (blister; champagne phase, pillars, etc). Select from Herschel surveys. Survey different regions of the galaxy.
 
+## Asymmetry in Wolf-Rayet nebulae (Nicole St. Louis)
+
+WR are >25 solar mass O stars; He-burning phase. There much to learn about their evolution, and *actually let them collapse into a SNe; GRBs*. GRB progenitors must rotate quickly; these would be young WR. Find these young WR by nebulae, which would dissipate rapidly.
+
+Global asymmetry in wind causes continuum polarization by Thomson scattering.
+
+If nebula was ejected during the WRs rotation, then gas kinematics should reflect that rotation. Ideal project for SITELLE since you can observe the 2D velocity field. W6 is huge: 40'x40'. More WR nebulae are about 10 arcmin though. Models don't exist for these winds. Most modelling has been done for B stars (Connection to MIMES project?). Use Ha and [OIII] for this project, simply on basis for S/N for kinematics. Add in more lines to get ionization structure at the same time.
 
 
 
