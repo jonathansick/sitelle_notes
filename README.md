@@ -242,7 +242,26 @@ Some structures aren't moving: **Quasi Stationary Floculi**. Might have been eje
 
 Seems to be unusually nitrogen rich.
 
-Multi-epoch observations between 2000 and 2009 with HST. Get transverse velocity. Traced 3500 knots and manually mapped their displacement vectors. The expansion is actually faster on the outside! Trace expansion inwards: estimate site of explosion. It seems that the star (or nebula) has moved relative to the explosion site.
+Multi-epoch observations between 2000 and 2009 with HST. Get transverse velocity. Traced 3500 knots and manually mapped their displacement vectors. The expansion is actually faster on the outside! Trace expansion inwards: estimate site of explosion. It seems that the star (or nebula) has moved relative to the explosion site. *Velocity would be 200 km/s. Could it be a binary pair?*
 
 To get total velocity (combining radial and transverse), need a distance estimate. He uses spherical symmetry; finds D to make traverse velocity and radial velocities balance. *D=3.33 kpc*. Under this assumption, he gets a 'true' 3D map of Cas A.
+
+## Using SITELLE to fine Be and other Massive Stars in CoRoT fields (Maillard)
+
+CoRoT = Convection, Rotation and Planetary Transits. Observe opposites directions in MW between summer and winter.
+
+Be stars rotate quickly (1.5 days). Show Balmer emission (equatorial plane envelop).
+
+To find these... FLAMES spectrograph with 132 fibres over 25 arcmin field. They've found 21 Be stars.
+
+With SITELLE (H alpha) one could multiplex spectra; classify stars much more quickly. Be candidates would have an Ha emission component. SITELLE could go to V~18 mag.
+
+Near-UV? Use the Balmer decrement (360 - 390 nm) to help discriminate a B from Be star.
+
+Note: 4 SITELLE fields would cover a single FLAMES/GIRAFFE field. First, verify SITELLE in a FLAMES field. Need R=3000 for Ha; R=1500 for Balmer decrement feature.
+
+Note: can't just do narrowband MegaCam imaging b/c you need to careful about continuum subtraction. You could easily miss the Halpha emission.
+
+Spectroscopic follow-up to GAIA?
+
 
