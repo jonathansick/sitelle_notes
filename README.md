@@ -277,3 +277,7 @@ SITELLE can answer what the role of turbulence is *in regulating star formation*
 
 environments.
 
+## Discussion
+
+*Bureau* SITELLE could also be used for proper+radial velocity measurements of clusters around galaxies to estimate distances (of the cluster to the galaxy) in that case too...
+
