@@ -449,3 +449,22 @@ With better receivers we're detecting thicker HI disks (below 1e19 atoms/cm). St
 SITELLE optical follow-up. There *is* some declination overlap. Study how gas gets converted into stars. Higher spatial resolution will improve inner kinematic profiles for DM studies. For kinematics, Halpha Fabry-Perot with SALT. Also combine IR imaging from WISE. SITELLE OII and SII will be useful.
 
 Projects like SKA are crucial for retaining talent in Africa.
+
+## SITELLE + Herschel Reference Survey (Amram)
+
+How did galaxies in the young universe form? How do they evolve? Local samples are useful for answering this because we can study them in detail. Need to figure out what we're seeing with JWST.
+
+We see red and blue sequence galaxies that roughly correlate with early vs late type morphologies. More fundamentally, how does mass and angular momentum build up; where does SF occur; BH feedback, etc.. Need to study formation of galaxy components. Bulge formation encodes early formation history. Disk grows tells us how gas continues to accrete. How is star formation quenched (feedback from AGN, winds)?
+
+There are now ~50 integral field spectrographs in the world. None in the 8-10m class are being used for major/complete surveys (hmm?). Most have FOV of 1 arc min. Most have R=1000-2000. DiskMass has R=10000. MANGA at SDSS/APO is doing 10000 galaxies!
+
+Herschel Reference Survey: studies dust in 'normal' galaxies. Dust shields gas from UV field; cools the gas. (n.b., Dust is important people!)
+
+- Dust mass/temperature/gas-to-dust ratios
+- Study role of dust in ISM
+- Reconstruct SEDs
+- etc..
+
+Herschel RS is *volume limited* at high galactic latitude (15 to 25 Mpc). Includes 323 galaxies (258 late types; 65 early). Includes field *and* Virgo cluster. Lots of data across the entire electromagnetic spectrum to tie in. HeDaM database combines all these.
+
+How can SITELLE help? Need all phases of ISM: HI, H2, neutral and **ionized** (and dust). SITELLE can help with ISM (emission line fluxes and ratios) and stars (stellar populations and kinematics).
