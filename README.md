@@ -571,3 +571,26 @@ SITELLE challenges:
 
 SITELLE would also be great for studying cooling flows around brightest cluster galaxies. The large FOV is a real win here.
 
+## Spiral Galaxy Stellar Populations and SNAGS (Carmelle Robert)
+
+Stellar pops: ages, Z, stellar mass, SFR, dust, gas ionization. **Stellar archaeology**: retains the chemistry of galaxy from epoch of star formation. Want to work towards a picture of global galaxy evolution.
+
+Kudritzki 2012: Stellar metallicity gradient from resolved Keck spectra!
+
+Need a stellar population synthesis code to model a galaxy's stellar population (SED): IMF; SFH parameterization; stellar isochrones; stellar spectra. Then add in nebular lines. Note that dust *will* be different between different stellar populations. Taking into account Ha/Hb emission will shift the stellar population ages. IFUs will reveal the clumpy ISM. (we really need to start thinking about realistic radiation transfer; related to diffuse interstellar gas).
+
+PINGS survey needed 36 fields over 6 nights to cover a galaxy!
+
+We need to start thinking about doing stellar populations with IFS.
+
+Filters:
+
+- [OII] at 3727
+- WR bump at 4686, Hb, [OIII]
+- Mg, Fe lines 5177; 5270; 5335
+- Ha, [NII]
+- Near NaI 8200; CaT 8498; 8542, 8662, TiO
+
+Bureau: Can detect IMF variations from line strengths in NIR. Yes... (Is this the Conroy method?)
+
+Barmby: What pop synth codes do we use? Ultimately we need to compare them
