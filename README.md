@@ -529,5 +529,24 @@ Next steps:
 - extend to 2D
 - Move to Python+Web from IDL version.
 
+## Spiral Galaxy Evolution w/ SpIOMM (Laurie Rousseau-Nepton)
+
+SpIOMM is 12 arc min square; blue and red filters used here. Coverage of SA-SAB galaxies.
+
+Calibration: need to do CCD corrections on the interferogram. Make a standard star data cube to do absolute flux calibration. Then sky subtraction. Finally, in this case use HIIphot to extract HII regions (Thilker 2004).
+
+Flux calibration details: standard star, then correct for filter transmission curve. Gives a correction factor as a function of wavelength to put data cube spectra in physical units. Beyond the ZPD, the FT of a star is very constant. Thus don't need a lot of frames of the standard star. This helps you do the calibration throughout the night. (editor's note: wait for the SITELLE guide before undertaking your calibrations!)
+
+From Halpha flux, yield star formation rate.
+
+Look at density of HII regions in various parts (arm/interarm) regions of the galaxy. Look at HII luminosity function. The HII LF seems to be stable across all galaxies sampled. The same dataset even yields rotation curves. Can also get extinction maps.
+
+Gas metallicity maps. Estimate with both NII/Halpha and OIII/Hbeta indicators. Metallicity gradients aren't linear. Caveats with how you do abundances with these methods...
+
+NGC7331: flatter gradient, indication of gas mixing.
+
+BPT analysis: HII vs AGN vs ?. The regions outside HII domain could be shocking. Or PNe? Diffuse ionized gas: this can bias measurements. (n.b. can SITELLE be used to map the diffuse ionized gas of a galaxy? Yes?) Nice thing about having 2D mapping is that SN remnants can be identified and masked from HII analyses.
+
+Question: comparison of these indicators to the *direct method*.
 
 
