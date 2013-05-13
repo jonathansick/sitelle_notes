@@ -594,3 +594,28 @@ Filters:
 Bureau: Can detect IMF variations from line strengths in NIR. Yes... (Is this the Conroy method?)
 
 Barmby: What pop synth codes do we use? Ultimately we need to compare them
+
+## Stellar Systems in the Nearby Universe (Pat Côté)
+
+There is a bird named SITELLA: we *can* do absorption line work.
+
+Scaling relations of galaxies: Tully fisher; Faber Jackson. Guzman 1993: extend into low mass galaxies. Modern state of the art is ATLAS3D (Cappellari 2012). Extending this to even lower mass: fundamental manifolds, etc. (Zaritsky 2006; log sigma - log M/L). **The hardest thing to measure with dwarf galaxies is velocity dispersion**.
+
+What can SITELLE do (compared to A3D and CALIFA):
+
+- Better site than 
+- Field of View
+- Spatial resolution
+- Flexible spectral resolution
+
+NGVS (ugri survey of Virgo with MegaCam) could be a great parent data set to being planning a SITELLE kinematic followup. Key driver of NGVS is the luminosity and mass function (e.g. the missing satellites problem; need a richer dataset than the local group). 317 previously undetected Virgo galaxies! MacArthur 2013 is working on an automatic detection code working on CANFAR.
+
+MacArthur 2013: SExtractor finds *a lot* of sources. The trick is to find Virgo galaxies against a background. Membership probability based on scaling relations, photometric redshifts, comparison against background fields, residual images after modelling light profiles. **Another great discriminant would be velocities**.
+
+NGVS is finding lots of galaxies for which we need LOS velocities. Adding these would be great to understand the kinematics of Virgo. Focus on H beta either in absorption or emission to find a velocity (the line will always be there). A very narrow bandpass will help reduce noise in the SITELLE observations.
+
+Also lots of ultra compact dwarfs (UCDs) or globular clusters. SITELLE could cover an enormous number of these.
+
+Peng 2013: radius vs velocity dispersion. May show break between galaxy and cluster potential. Cool stuff!
+
+Noyola 2008: intermediate mass BHs in globular clusters. Good case for SV.
