@@ -468,3 +468,38 @@ Herschel Reference Survey: studies dust in 'normal' galaxies. Dust shields gas f
 Herschel RS is *volume limited* at high galactic latitude (15 to 25 Mpc). Includes 323 galaxies (258 late types; 65 early). Includes field *and* Virgo cluster. Lots of data across the entire electromagnetic spectrum to tie in. HeDaM database combines all these.
 
 How can SITELLE help? Need all phases of ISM: HI, H2, neutral and **ionized** (and dust). SITELLE can help with ISM (emission line fluxes and ratios) and stars (stellar populations and kinematics).
+
+## Dynamics of Nearby (Early-Type) Galaxies with SITELLE (Eric Peng)
+
+SITELLE's wide field could be great for providing extended dynamics that current IFUs can't reach.
+
+- Dark matter content
+- assembly histories
+
+Nice thing about ETs is that they're great structures to study dark matter profiles since they have little gas. Stellar streams/kinematic substructures should also show up.
+
+Other surveys: SAURON/ATLAS3D, CALIFA and MaNGA.
+
+Outer parts of galaxies (high M/L) are where you're DM dominated. Structures from structure formation (mergers/accretions) are preserved in the outer parts of galaxies. Ideally want to cover out to 100 kpc (18 effective radii!). Discrete tracers (PNe/GCs) are necessary to trace kinematics in these low surface regimes. PNe are great: emission; intrinsically narrow (5 km/s) lines; no foreground confusion. Globular clusters: give chemistry/age and only require standard/broadband imaging to detect. Ideally want to do both.
+
+Gemini/GMOS globular cluster kinematic survey in Virgo cluster. VCC 1231; 1062; 2000; 685. Extant PNe studies hint that there is unusually little DM in these galaxies. Found 17 -- 52 GCs per galaxy. Needed to use three masks/galaxy because of slit crowding (inefficient). Slits give GC + galaxy + sky light. Thus you can even get kinematics of diffuse galaxy light, in addition to GC kinematics. Diffuse light plot out to R=10 kpc; GCs even further out of course. Some show stars+GCs co-rotating; or GCs not rotating; inner co-rot w/ no outer rotation; or even counter rotation in outer parts! **Lots of different kinematic patterns! Wild.** SITELLE could be great here: multiplexing capabilities should pick up kinematic tracers very quickly, without central crowding problems for slits.
+
+PNe: effectively get 10^4 solar luminosities just in the [OIII] line! Traditional observations used two step process:
+
+1. Narrowband imaging with custom made filter for the galaxy of interest. Then off-band image to subtract continuum. Detect PNe.
+2. Then use a MOS to get velocity measurements. Fibre configuration really challenging.
+
+Two step process is logistically challenging because you need to deal with two TACs. With SITELLE you do an entire galaxy in one cube!
+
+Width of PNe lines governed by expansion vel. (20-30 km/s). With R=10000 can get 3 km/s velocities (awesome!). Need to determine band pass of SITELLE cube: narrow to avoid sky; wide enough to cover velocity dispersion. Main contaminant are Lyman-alpha galaxies at z=3. R=10000 spectra should easily distinguish these.
+
+PNe detection limits at Virgo distance (considering PNLF): 11 photons/minute at CFHT. Key challenge is sky: narrow band pass means you limit noise from bright sky photons. Competitive setup is narrowband imaging+VLT/FLAMES. Have great image quality means better S/N for PNe (FLAMES has fat fibers). SITELLE could be competitive in this respect.  What about WHT spectrograph? Counter-dispersed spectrograph (slitless). WHT's downfall is poor seeing. And SITELLE can do an order of magnitude better velocity resolution.
+
+Use  ATLAS3D as a parent sample: 89 ETs within 20 Mpc. Nice demonstration that a 40 AA (5005A-5045A) bandpass filter would work well for most of these galaxies. These galaxies are also nicely sized for SITELLE's 11 arcmin FOV.
+
+The dream: simultaneous integrated light + PNe + GC kinematic maps. This helps us understand systematics of each type of tracer.
+
+Simard: Can we look for PNe being kicked out, potentially yielding the age of the last major merger? Very few found, but cool idea!
+
+Should we broaden the filter to add Mg lines, for e.g.. Or would the [OIII] flux kill simultaneous absorption line studies. Probably.
+
