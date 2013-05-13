@@ -424,3 +424,28 @@ Future work: observations with Gemini to explore dwarf elliptical populations. G
 SITELLE's potential: can resolve issues in non-axisymmetric velocity fields. E.g. disentangle bar from disk dynamics. Also, photometric and dynamical position angles can disagree. Want all the data! Interactions can also create non-axisymmetric dynamics that need to be resolved. Just need Ha lines, likely with R=5000. Also create 2D dynamical mass maps.
 
 ## Square Kilometer Array (Carignan)
+
+SKA: half to Australia for low-freq, other half to S. Africa. Note that SKA is *really* a pan-African project. Lots of countries collaborating! Arrays all the way out to Kenya.
+
+Status: MeerKAT (64 dish)/SKA PH1 will be completed in 2016. Construction of full SKA completed by 2025 (3000 15 m dishes!). KAT7 prototype is already useful for continuum source detection.
+
+NGC 3109 kinematics and mass distribution; getting 4 arc min spatial resolution with 1 km/s kinematic resolution. HI here extends over a degree, so this is exceptional resolution. Tests of RCs against NFW, MOND. MOND doesn't seem to fit. VLA observations were missing a lot of the HI because the field was too small. KAT7's wide field fits this niche well. Wildly warped HI disk; tilted ring modelling. Effectively doubles extent of RC from VLA observations.
+
+SITELLE: do absorption work from Mg and Ca lines in blue and red.
+
+Next step is MeerKat, with 64 dishes. 29m to 1 km baseline. Until SKA, this will be the most sensitive radio interferometer in the world (useful for nearby galaxies).
+
+SKA site. Data processing will be done underground to shield radio emission.
+
+### MHONGOOSE Survey: D<20 Mpc Galaxy HI Survey.
+
+200h per galaxy! Covers all morphological types, AGN, etc..
+
+- How did galaxies get their gas? Connect gas fuelling from the cosmic web.
+- How is star formation regulated, etc.
+
+With better receivers we're detecting thicker HI disks (below 1e19 atoms/cm). Study extra planar gas: fountains and accretion flows.
+
+SITELLE optical follow-up. There *is* some declination overlap. Study how gas gets converted into stars. Higher spatial resolution will improve inner kinematic profiles for DM studies. For kinematics, Halpha Fabry-Perot with SALT. Also combine IR imaging from WISE. SITELLE OII and SII will be useful.
+
+Projects like SKA are crucial for retaining talent in Africa.
