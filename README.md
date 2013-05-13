@@ -398,3 +398,29 @@ Nebular Empirical Analysis Tool (NEAT) does a Bayesian analysis for electron tem
 Wavelength range 370-950 nm. Spectral resolution of 2000 would be good.
 
 We need the tools to deal with SITELLE data. Visualization tools? IFSView (Python); PINGSoft (IDL); DS9 (C). Nice CALIFA visualizations: in Husemann 2013; Cid Fernandes et al 2013. Good inspiration. We can do better! How do we combine catalogs and N-dimeinsional data?
+
+## Virgo Cluster (FTW) (Nathalie Ouellette)
+
+A great laboratory for studying galaxies. SHIVir Survey: Spectroscopic and H-band Imaging of Virgo. Long-slit Palomar, KPNO and Apache Point Observatories.
+
+**Both early and late type galaxies.** Spans morphologies, sizes and shapes.
+
+Goals:
+
+- Homogeneous photometric and spectroscopic sample. Want to bridge photometry and spectroscopy. Compilation of parameters: photometric and spectroscopic.
+- Scaling Relations
+- Defining and refining metrics for Vrot and velocity dispersion. How can scatter be minimized in scaling relations?
+
+Rotation curves: 34 SHIVir gas-rich galaxies. In detail, deviations from regular RCs. PA alignment (will be fixed by SITELLE 2D spectroscopy!); symmetric warps; non-axisymmetric dynamics (bars, arms).
+
+Tully Fisher Relations: V(23.5) vs Mi(23.5) works best.
+
+Velocity Dispersion Profiles. Most studies focus on central velocity dispersion (a scalar quantity). Here, Nathalie manages to measure *sigma profiles*. Rotation corrected sigma profiles are in work. Will yield a Vc-sigma relation for Virgo galaxies!
+
+Faber-Jackson: sigma(1.5Re) vs Mi(23.5) yields the tightest FJ. Next step is to move into the Fundamental Plane. Does the FP want rotation correction or not?
+
+Future work: observations with Gemini to explore dwarf elliptical populations. Goal is to create a Virgo velocity function (akin to a mass function) to test galaxy formation models.
+
+SITELLE's potential: can resolve issues in non-axisymmetric velocity fields. E.g. disentangle bar from disk dynamics. Also, photometric and dynamical position angles can disagree. Want all the data! Interactions can also create non-axisymmetric dynamics that need to be resolved. Just need Ha lines, likely with R=5000. Also create 2D dynamical mass maps.
+
+## Square Kilometer Array (Carignan)
