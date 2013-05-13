@@ -503,3 +503,31 @@ Simard: Can we look for PNe being kicked out, potentially yielding the age of th
 
 Should we broaden the filter to add Mg lines, for e.g.. Or would the [OIII] flux kill simultaneous absorption line studies. Probably.
 
+****
+
+# Monday Afternoon
+
+## SITELLE Data Simulator (Laurent and students)
+
+*Don't look at the numbers.* (Will be fixed of course)
+
+Ingredients:
+
+- Template spectrum. To understand noise, you need a template spectrum for your observation.
+- Filter. Add your own; see what needs to be built.
+- Specify either resolution or time available.
+
+Simulator can turn on/off different types of noise. Will be able to automatically output S/N for various features. Will be good to add a seeing parameter.
+
+Demonstration of how Ly alpha detection suffers in redshifted data because of higher sky flux.
+
+Next steps:
+
+- stellar library
+- more sources: comets and galaxies
+- need to include a measure of the velocity uncertainty (lots of people want to think in these terms: how long to integrate to get X km/s resolution for Y object)
+- extend to 2D
+- Move to Python+Web from IDL version.
+
+
+
