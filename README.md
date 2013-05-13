@@ -357,7 +357,34 @@ SNAGS is open to collaborations.
 
 What spectral resolution? CALIFA did R=1600. Want more.
 
+## Gas Fuelling in Andromeda's Nucleus (Melchior)
 
+(nb ANDROIDS will solve the issue of using OS X backgrounds to show M31's structure).
 
+HI (Braun 2009): in 10 kpc ring; missing from centre. CO (Nieten 2006) also in ring; issing from centre. IRAM CO observations have fat 9" pixels. MIPS 24 µm shows dust/gas at centre. Groves 2012 showed that the central dust is heated primarily by 1Gyr old stars.
+
+Devereux 1994 Ha+[NII] emission image (1.3˚x1.3˚). Pretty low S/N image!
+
+Block 2006: two rings possibly created by a head-on polar collision with M32. The inner ring is quite offset, thus not likely a secular resonance.
+
+Double peaked radial velocities in inner ring on near-side. Likewise on minor axis far-side. Seems to be a counter-rotating, inclined disk.
+
+Boulesteix 1987 Fabry Perot velocity field of HII.
+
+What about PNe velocity field? PNe follow bulge SP. Seems to be a abundance peak of PNe on minor axes.
+
+Weak CO detections in centre now with IRAM-PdB. Beam is 2" FWHM.
+(A_B extinctions from Melchior+ 2001.)
+SAURON made [OIII] emission maps; [NII] maps from Fabry-Perot.
+
+X-ray outflows in centre.
+
+Current state of art for central ionized gas is from Jacoby 1995! Hints that Ha and [NII] do not emit at exactly the same place.
+
+SITELLE could help in resolving the velocity field (R=10000-15000). Should discern multiple velocity components. Need to produce separate Ha and [NII] maps because their ionization structure do seem to be different.
+
+Questions: ring expansion consistent with about 5 km/s.
+
+BH sphere of influence may be a few arcseconds.
 
 
