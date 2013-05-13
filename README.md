@@ -281,3 +281,34 @@ environments.
 
 *Bureau* SITELLE could also be used for proper+radial velocity measurements of clusters around galaxies to estimate distances (of the cluster to the galaxy) in that case too...
 
+****
+
+# Monday
+
+## 1D FTS at the CFH with BEAR (Maillard)
+
+Milestones:
+
+- Connes, Connes and Maillard 1969: *Atlas of NIR Spectra of Venus, Mars, Jupiter and Saturn (en Français).* with same resolution as a solar atlas.
+- 1970 Aspen Intl Conference on Fourier Spectroscopy
+- Two FTS on Kitt Peak in the 1970s.
+- Voyager I and II as FTS
+- Kuiper Airborne Obs. ad an FTS in 1980
+
+CFH-FTS
+
+- At f/35 Cassegrain focus
+- 24" FOV.
+- Rmax = 5e5 at 2 µm (exceptionally high resolution!)
+- Operated 1982 - 2001 (very long operational life!)
+- Applications in planetary atmospheres (e.g., Maillard 1995 obs of Jupiter's auroral zones). Found some neat lines in Ks band-- H3+ ion detected!
+- Oxygen/carbon isotope ratios in the Martian atmosphere with R=430,000 spectra in H-band. Tricky because these species are in the Earth's atmosphere; work around by observing Mars at maximum doppler shift.
+- Outflows from YSOs
+
+Moving to 2D FTS in 1989: just needed to add a *CCD* camera (800x800 pixels). This was effectively the first imaging FTS. Operated in optical of course. With they 'Redeye' camera (256x256 NICMOS) renamed Bear: *Bidimensional Experience with Array Receiver*. First science result was Venus dark-side imaging of O2 in J-band window. In galactic centre, studies of Helium stars (Paumard et al 2001[??]).
+
+Ultimately yielded NIRCAM, SpIOMM, proposal for H2EX (to explore molecular hydrogen). Akari carried an FTS covering 70-150 µm (?). SPIRE on Herschel. FTS-2 on SCUBA-2 (alas, EOL for JCMT).
+
+A very high resolution 1D NIR FTS could fit well on TMT.
+
+**Check out imaging FTS paper by Maillard, Drissen, Grandmon and Thibault in Experimental Astronomy 2013.**
