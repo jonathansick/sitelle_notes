@@ -549,4 +549,25 @@ BPT analysis: HII vs AGN vs ?. The regions outside HII domain could be shocking.
 
 Question: comparison of these indicators to the *direct method*.
 
+## Early Type Galaxies with SITELLE (Bureau)
+
+Early Types? He's crazy, right? But SITELLE's wide FOV makes it appealing to try absorption line studies of galaxies. ETs *do* have some ionized gas. Dark matter: disintegrated light kinematics, etc..
+
+ATLAS3D: 40"x30" WHT/SAURON (no longer the wide-field benchmark). Has looked at all the ETs in the local volume. Having high resolution data across the electromagnetic spectrum means that you can meaningfully compare data cubes.
+
+SAURON: narrow 400 angstrom spectral range covering [OIII], Hbeta. Use [NI] as proxy for [NII]. SITELLE driver: get kinematics at large radii with ionized gas (beyond FOV of SAURON). Line ratio diagnostics don't work here, outside traditional HII regions.  **Crucial to compare absorption line and emission metallicities**. They are really different things.
+
+With SAURON, detect faint emission lines by modelling the spectrum; yielding emission as residuals. Needs high S/N to trust these detections.
+
+Stellar kinematics: need to constrain dynamics are large radii in DM-dominated regime. SITELLE will be a competitive instrument for discrete kinematic tracers.
+
+What about using SITELLE as a light bucket for integrated light studies. The stars are *always* there, but surface brightness is extremely low (µV ~23). Light bucket approach (at least with SAURON) means extreme spatial binning.
+
+SITELLE challenges:
+
+- Trick is to avoid strong emission lines, which will distribute noise into absorption lines. 
+- Can you bin in the data cube space? How does noise propagation work?
+- Note that kinematics studies observe convolution of galaxy and stellar kinematics! Modern studies use a combination of stellar templates (think: GANDALF code). Rather than convolving galaxy and stellar templates from real space, should we stick to Fourier space? Does this work? A good start would be to observe the template stars with the FTS.
+
+SITELLE would also be great for studying cooling flows around brightest cluster galaxies. The large FOV is a real win here.
 
