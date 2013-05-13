@@ -1,6 +1,6 @@
 # SITELLE Notes
 
-*Notes from the SITELLE Workshop, May 12 — 14.*
+*Notes from the SITELLE Workshop, May 12 — 14. 2013.*
 
 ****
 
@@ -619,3 +619,14 @@ Also lots of ultra compact dwarfs (UCDs) or globular clusters. SITELLE could cov
 Peng 2013: radius vs velocity dispersion. May show break between galaxy and cluster potential. Cool stuff!
 
 Noyola 2008: intermediate mass BHs in globular clusters. Good case for SV.
+
+## Absorption Structures in M87 with SpIOMM (Sébastian Lavoie)
+
+Lots of discussion at the workshop about how FTS works with absorption lines. Enemy of absorption lines is distributed noise. Continuum sources has most information near ZPD; emission sources appear at many more steps in the interferogram. (Also avoid emission lines in your bandpass.)
+
+How to boost S/N of absorption line: narrower filter! (minimize photo noise from continuum). Doing so gives you higher spectral resolution too! Or longer exposure with same filter; problem is that you will ultimately saturate the CCD.
+
+M87 with SpIOMM. Lots of globular clusters! Impressive Na absorption line strength gradient. More modulation in the V interferogram helps with noise. Pick out core filaments.
+
+
+
