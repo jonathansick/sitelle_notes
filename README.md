@@ -387,4 +387,14 @@ Questions: ring expansion consistent with about 5 km/s.
 
 BH sphere of influence may be a few arcseconds.
 
+## Comparing HII Regions in M31 and NGC 5128 (Barmby)
 
+Metallicity gradient in M31 determined in 1982 with only 17 regions. Not much done since! Azimlu+ 2011 mapped M31 HII regions with GMOS spectroscopy.
+
+In M31 can detect auroral lines to use the direct method for measuring electron temperature and abundances. See Croley. Can distinguish between SNR/HII/PNe.
+
+Nebular Empirical Analysis Tool (NEAT) does a Bayesian analysis for electron temperature and abundance. Stock 2011, Wesson 2012. Result: *[N/O] doesn't correlate with [O/H].* This work and Zurita and Bresolin (2012) and Saunders 2012 have improved the radial gradient. *Might see gradient and break; but this is not entirely clear.* Various authors have also measure abundances with supergiant stellar atmospheres. This abundance profile is perhaps still wanting. Want to know about azimuthal gradients. Zurita and Bresola PNe abundances above HII regions. Odd.
+
+Wavelength range 370-950 nm. Spectral resolution of 2000 would be good.
+
+We need the tools to deal with SITELLE data. Visualization tools? IFSView (Python); PINGSoft (IDL); DS9 (C). Nice CALIFA visualizations: in Husemann 2013; Cid Fernandes et al 2013. Good inspiration. We can do better! How do we combine catalogs and N-dimeinsional data?
