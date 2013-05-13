@@ -312,3 +312,52 @@ Ultimately yielded NIRCAM, SpIOMM, proposal for H2EX (to explore molecular hydro
 A very high resolution 1D NIR FTS could fit well on TMT.
 
 **Check out imaging FTS paper by Maillard, Drissen, Grandmon and Thibault in Experimental Astronomy 2013.**
+
+## SNAGS: Survey of Nebular Abundances in Galaxies with SITELLE (Pierre Martin)
+
+SNAGS is still in early planning phases; a lot of us could participate in it. Interest in how galaxies recycle gas. Looking at ISM we can fill in link between successive generations of stellar populations and how gas in lost/moved by winds.
+
+Questions: What are relationships between abundances and galaxy properties.
+
+Hints:
+
+- Temonti 2004: Know relationship between galaxy mass and abundance. 
+- Global O/H gradients. Outer parts of galaxies are metal poor.
+
+Competition: PINGS + CALIFA. Optical Fibre array, 3700-7000 AA. R=1000-1600 for **600 galaxies (pending).** Approximately 1 arcmin diameter array. This survey will be great for studying global properties; gradient work might be limited.
+
+SNAGS
+
+1. Nebular Abundance Distribution in Spirals. From long-slit spectroscopy we know there are negative radial gradients. But very few objects have all their HII regions sampled. Revived lately (Bresolin). *Lets look at a bunch of galaxies and get uniform measured O/H gradients.*
+2. Role of Bars. Bars are near-ubiquitous. How does secular evolution influence abundance gradients. (Is there a connection between truncation in stellar disks and abundance gradients). Bars are important for feeding the galaxy centre as well: *pseudobulges*. Secular evolution should work to make gradients flatter over time. We can't just measure bar influence from de Vaucouleurs type. Interesting work measuring star formation along bars (Florido 2012).
+
+  - Is bar strength a far
+  - Is bar age a factor
+  - what are the gas mixing timescales for a galaxy?
+
+We need a homogeneous sample to establish the connection between bars and abundance gradients.
+3. Are abundance gradients actually linear?! E.g. NGC3359 (Zahid and Bresolin 2011). Also evidence from MW Cepheids (Andrievsky 2004). Outer disk star formation: Bresolin 2012: abundance gradients are *extremely* flat in outer regions; there is a break from inner profile. Origin of breaks:
+
+  - Gas accretion?
+  - Galaxy winds?
+  - Spiral/bar resonances?
+  - Minor mergers?
+
+*Need a homogenous sample of well-resolved galaxies to establish statistics for these breaks*.
+
+Preliminary SNAGS sample: 70 spirals that have outer disk star formation seen by GALEX. Most can be studied with 1 SITELLE pointing.
+
+*Direct method*: Direct estimation of electron temperature from abundances. Problem is that these auroral lines are very faint. This could be a challenge for SITELLE. Instead SNAGS may try for indirect methods using bright emission lines. Martin has confidence that these indirect methods are becoming well understood in relevant environments. Possible pitfalls E.g. R23. It is crucial to use many abundance indicators simultaneously.
+
+Three spectral ranges to cover NII/Ha/SII/HeI + Hb + x.
+
+Megantic NIR imaging to get bar strengths.
+
+SNAGS is open to collaborations.
+
+What spectral resolution? CALIFA did R=1600. Want more.
+
+
+
+
+
