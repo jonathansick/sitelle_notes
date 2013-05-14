@@ -744,5 +744,94 @@ SITELLE will be an awesome survey instrument, giving un-biased source catalogs.
 
 One trick: if looking for only one line, how do we know if the redshift is correct (got the right line). **Don't forget that SITELLE has a multiplexing advantage.** We need to learn to look at many lines at once. Its a balance of getting many lines vs. noise.
 
+****
 
+## General Discussion
 
+*How will the outcome of the commissioning be made public?* Emails will be sent to agencies. Commissioning will take ten nights. Want to minimize commissioning, then we can separately play with science verification. The comet is high on the list of SV targets (not guaranteed though). Nonetheless, send suggestions to Laurent. But mostly keep project ideas for Science Verification. You'll want to wait for ETC to be set before SV projects are defined. Commissioning will lead to final tuning of the exposure time calculator/simulator. Simulator will be available this summer.
+
+Eric notes it would be great to observe (and make public) a standard star data cube in commissioning so we can start to get hands-on experience with data cubes; get ORBS going; start writing our own tools.
+
+### Daniel Devost:
+
+- October 1: SITELLE deliver.
+- September 1: SITELLE TAC formed
+- Jan 1st: commissioning finished. ETC updated
+- Jan 15: Call for SV proposals. Deadline February 15 for PH1.
+- SITELLE TAC meets February 18 (online).
+- SV observations will effectively start late February. Time will be set aside in 2014A semester for SV observations. March-April crucial for Virgo.
+- Science verification will be available at large. Want bright/faint objects, small, large, etc.. Want to test all regimes. SV will ideally yield papers, like a PI program.
+- Will SV programs be completed? Maybe not, since limits may be hit. **SV will be shared risk.**
+
+### Drissen: Filter selection timeline?
+
+- Funding for 5-6 filters.
+- August 22 deadline to start making them.
+- This summer: form a group to submit a common list of filters.
+- Filter fab: 4-6 weeks (optimistic?)
+- Andover shuts down for summer. We need to submit an order within weeks!
+- Simard: Can groups bring their own filters? Yes, if TAC permits.
+- A wiki page would be useful for sharing results and quickly sharing information about what works. Morrison: SITELLE will show up on CFHT site within engineering phase. Will want a repository of software tools developed by users. Tutorials for analyzing data cubes
+
+### Large Programs (100 hr)
+
+- CFHT deadline for LP is February
+- This coincides with SV (CFHT SAC didn't want to move CFHT LP deadline just for SITELLE. Possibly carve out a SITELLE LP allotment; needs negotiation at agency level)
+- Doug Simons: Don't want to penalize SITELLE LPs. There will be a debate with SAC. Consensus is that there needs to be a separate call for SITELLE LPs. We don't want to release new instruments too fast because of political pressure. (Very dangerous to submit LPs without having solid conclusions from SV). Large programs will get 30-35% of CFHT time (depending on agency). Daniel says this will ultimately rise to 50-60%.
+- 2014B PI proposals would be due end of March 2014. Again. This is a rush..
+- Daniel: typical programs from second LP call were 100 hours.
+
+### Filter Selection?
+
+One idea based on some specific applications:
+
+- BPT diagrams up to Virgo
+
+  - Red (650 - 680 nm). Won't include [OI]. Has [NII] lines. Are these too narrow?
+  - Blue (480 - 510 nm)
+  - Ouellette: want better resolution, don't want SII.
+  - Bureau: important Mg absorption line is outside blue filter. Want to go beyond 510 nm (like SAURON filters).
+
+- Halpha/[NII] kinematics WR nebulae, galaxies, ISM
+
+  - 650 - 665 nm
+
+- Planetary nebulae in Virgo
+
+  - 4 nm around [OIII]
+
+- Comets (long list). This filter will push in blue, include OII.
+
+Need to send list of filters of Laurent. Most popular filters will win.
+
+Eric: can we make a starter filter set for SV, then add more later? "Probably in this room there are twenty different filters in mind."
+
+Bureau: Simulator will be crucial for defining filters.
+
+Concern that these filters are too narrow to take advantage of multiplexing qualities of SITELLE. Maybe should start with a wider filter set, let the community build very narrow filters as niche needs arise. 30 nm wide filters are too narrow to start with (?).
+
+Adding more filters complicates OGs. Can't change filters during a QRUN because you may not get calibration time for it!
+
+We need to form groups to work with simulator and define a list of filters the balance filter width and usability.
+
+**Minimal filter list with alternative philosophy that covers entire spectral domain:**
+
+- 356 - 450 (max R=10000)
+- 470 - 540 (Fe) (max R=9000)
+- 570 - 640 (max R=8000)
+- 650 - 660 ([SII] ?) (max R=7600)
+- 660 - 955 [SII], [SIII], OH
+
+This would be a general filter set (and made to overlap). Note: these max R numbers may be off.
+
+### Other issues
+
+Can we run single-sided observing to minimize the number of images needed? May be possible.
+
+How to run projects?
+
+- Follow STScI concept: define four large programs to feed a lot of science. 
+- Barmby: necessary to build teams around approaches towards science objectives; let the TAC decide which approach should be implemented.
+- Simard: we should allocated time based on what projects best use the unique qualities of SITELLE.
+
+Politics: we need to convince the SAC that SITELLE is not a niche instrument.
