@@ -628,5 +628,26 @@ How to boost S/N of absorption line: narrower filter! (minimize photo noise from
 
 M87 with SpIOMM. Lots of globular clusters! Impressive Na absorption line strength gradient. More modulation in the V interferogram helps with noise. Pick out core filaments.
 
+****
+
+# Tuesday Morning
+
+## Abell 1882: Kpc-scale spatially resolved star formation in a z=0.14 proto-cluster (Glenn Morrison)
+
+**Is large scale structure driving galaxy evolution?** Groups in isolation have SFR 30% higher than cluster but 30% lower than field (Bai 2010). Even in dense groups, SF fraction in groups higher than in cluster outskirts. Preprocessing of galaxies in group environments is not sufficient to explain lower SF fraction in clusters.
+
+Lots of panchromatic data, including MegaCam (Elixir-LSB), WIRCam, Radio continuum, Spitzer and Hectospec, GALEX and more...
+
+Three groups, each separated by about 1.2--1.6 Mpc. Most 24µm emission outside dense areas.
+
+Caustics! See infall velocities. Nearest-neighbour clustering; looking for filament structures.
+
+Elbaz 2007; 2011: *Main Sequence of Star Formation*. Galaxy mass vs. star formation rate. Classify passive, main sequence and star bursting galaxies. Starbursting galaxies smaller than  10^9.5 solar mass; main seq are bigger, passive even more massive. Main seq. pop is disk, have gas still. Morphologies make sense.
+
+Star forming galaxies are smoother than expected: not clumpy as you'd expect from HII regions. Pre-processing going on???
+
+1882 is very much like the field (briefly said).
+
+SITELLE: even with 2x2 binning can spatially sample individual galaxies in the system extremely well.
 
 
