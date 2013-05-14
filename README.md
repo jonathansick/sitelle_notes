@@ -699,3 +699,19 @@ Would want [OII] and [SII] lines at low res; get O/H maps. May require lots of c
 Mazzei 2013: SPH model with chemo-photometric information. Constrain SED, dynamics and morphology (*model everything?!*).
 
 Simard: can we build a chronometer of group interaction? This would be the goal.
+
+## Observing Ram-Pressure Stripping with SITELLE (Sivanadam)
+
+Not clear exactly what process (and combination of processes) that explains difference between field and cluster galaxies.
+
+Chung 2009: VIVA survey (HI). Easily see the lack of HI in the centre of Virgo: suggests ram pressure stripping. Only atomic hydrogen is affected by ram-pressure stripping (molecular component remains). The star formation history lags the action of ram pressure stripping. See lots of Halpha, UV and X-ray tails coming out of galaxies in clusters. **How are stars forming in these tails?** (Sun 2007; 2010 ESO 137-001)
+
+Use Stephan's Quintet as a lab for shock-heated H2. (Appleton 2006; Cluber 2010). Can we see molecular hydrogen lit up by ram pressure stripping?
+
+Sivnandam 2010; 2013: IRAC observations see molecular hydrogen offset from star formation. Also see extended dust emission; CO is also detected along these tails. This is unexpected.
+
+Can't use Spitzer or Herschel anymore. But we can use SITELLE to trace the Halpha tails. These are low surface brightness features, a good test of SITELLE surface photometry. HII rotation show signatures of galaxy rotation retain their kinematics as they're stripped. SITELLE spectroscopy can map this.
+
+Lots of targets in Virgo, Coma, Abell 1367. [NII]/Halpha ratio for determining excitation mechanism in these tails (star formation or something else). Would require a single data cube; should be efficient.
+
+Question: how do we know that stars in these tails are not in-falling gas. Answer: how can gas infall in the hot cluster environment?
