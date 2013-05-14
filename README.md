@@ -715,3 +715,34 @@ Can't use Spitzer or Herschel anymore. But we can use SITELLE to trace the Halph
 Lots of targets in Virgo, Coma, Abell 1367. [NII]/Halpha ratio for determining excitation mechanism in these tails (star formation or something else). Would require a single data cube; should be efficient.
 
 Question: how do we know that stars in these tails are not in-falling gas. Answer: how can gas infall in the hot cluster environment?
+
+## Observing the High Redshift Universe with SITELLE (Luc Simard)
+
+Think redshift~4. Can a 4-m telescope do this? Yes. SITELLE should be efficient compared to a slit spectrograph.
+
+We *still* don't know exactly what drove re-ionization. AGN? Pop III?
+
+Evolution/buildup of galaxies. Mergers don't always create ellipticals; you can also end up with star-forming disks. We need to know how star formation follows the galaxy merger sequence. Then think about the Madau Lilly plot: massive drop of SF since z=1. What happened before?
+
+Juneau 2005: cosmic star formation rate depends on galaxy stellar mass. We probably have a selection bias against low mass galaxies.
+
+AGN feedback: cannot reproduce blue -> green valley -> red sequence bimodality without AGN. Need to follow up on this. Ueda 2003: peak AGN activity at Z=2. SITELLE + X-Ray survey would be great for this.
+
+Slits come with biases! Target selection means you're biasing your sample. Deep imaging solves this. Slit density also makes sky subtraction harder (FTS solves this). Also don't need aperture corrections for FTS as you do for slits. Overall, FTS are much more efficient than FTS.
+
+Cosmic variance is the enemy of high redshift statistics.
+
+HETDEX [OII] Pilot Survey at Hobby-Eberly. Their total survey area is 169 arcmin^2. Hard data reduction to fill in the pattern. Even this volume is not large enough.
+
+SITELLE can be an ideal survey instrument. One SITELLE field covers the HETDEX survey! Precise background remove great for Ly alpha. Look at 0.6 < z < 1 (6000 - 7500 AA for [OII]3727). Survey 6500 sq arc min. SF density good to 0.05 dex. This is a 40 night problem. Four hours per pointing.
+
+Survey idea II: Ly alpha emitters. Synergy with first survey.
+
+Survey idea III: Synergy with X-Ray surveys. Cross correlate [OII] sources with AGN catalog. Should tell us if AGN quenching star formation. SITELLE will be very sensitive at z=2-3 where AGN activity is dominant. Throw in weak lensing maps to put in LSS context. Do in CFHTLS D1. 36 Pointings, 2 hours each. 420-500 nm at R=1000.
+
+SITELLE will be an awesome survey instrument, giving un-biased source catalogs.
+
+One trick: if looking for only one line, how do we know if the redshift is correct (got the right line). **Don't forget that SITELLE has a multiplexing advantage.** We need to learn to look at many lines at once. Its a balance of getting many lines vs. noise.
+
+
+
