@@ -1,6 +1,6 @@
 # SITELLE Notes
 
-*Notes from the SITELLE Workshop, May 12 — 14. 2013.*
+*Notes from the SITELLE Workshop, May 12 — 14, 2013.*
 
 ****
 
@@ -154,7 +154,7 @@ This week: develop SV programs. And choose filters!
 
 ****
 
-# Monday Afternoon
+# Sunday Afternoon
 
 ## HII Regions (Gilles Joncas)
 
