@@ -1,6 +1,6 @@
 # SITELLE Notes
 
-*Notes from the SITELLE Workshop, May 12 — 14, 2013.*
+*Notes from the SITELLE Workshop, May 12 — 14, 2013.* Let me know if I've mis-represented anything. Submit an issue/pull request!
 
 ****
 
@@ -672,7 +672,7 @@ Modern observations of clusters:
 - Broad or narrowband imaging: lack spectral information.
 - Long-slit: again have spatially biased spectral information. Hard to get dwarfs.
 
-SITELLE: wide-field, full spatial coverage. Can get all galaxies, plus filaments. Still, Hercules cluster requires lots of SITELLE pointings. But a 'Hercules-like' cluster at z=0.1 takes just 7 SITELLE pointings to cover entire virial radius. Wants Halpha (and [NII]) to get SF statistics. To get chemical evolution also want Hbeta, [OIII], [OII], [SII]. Probably need three filters. More generally would want a:
+SITELLE: wide-field, full spatial coverage. Can get all galaxies, plus filaments. Still, Hercules cluster requires lots of SITELLE pointings. But a 'Hercules-like' cluster at z=0.1 takes just 7 SITELLE pointings to cover entire virial radius. Wants Halpha (and [NII]) to get SF statistics. To get chemical evolution also want Hbeta, [OIII], [OII], [SII]. Probably need three filters. More generally would want:
 
 - Washingston C
 - SDSS g'
@@ -680,8 +680,22 @@ SITELLE: wide-field, full spatial coverage. Can get all galaxies, plus filaments
 
 to support a starformation/chemical evolution study of clusters. Need R~1000-1500.
 
-Laurent: problem is that SDSS filters are too broadband. Trick is that there are many clusters at many redshifts. We probably want mid-band filters.
+*Laurent*: problem is that SDSS filters are too broadband. Trick is that there are many clusters at many redshifts. We probably want mid-band filters.
 
 ## Isolated E+S Galaxy Pairs (Henri Plana)
 
+Galaxy groups are where we find most galaxies! Laboratory for observing hierarchical structure/galaxy formation in action.
 
+Groups in low-density environment: bright galaxies merge to form one massive ETG. By looking at galaxy pairs we can catch galaxies before massive fossil ETGs are formed. **Looking for link between poor groups and isolated ellipticals.**
+
+Looking at elliptical+spiral pair simplifies matters since there's only one one gas rich component. See Grutzbauch 2009. A catalog of isolated pairs is being built. Ultimately want to build up and fit their SEDs.
+
+SITELLE is an upgrade from Fabry-Perot! Imaging, large field of view, and fairly wide spectral band. SITELLE would be useful for doing gas kinematics (gas transfer, turbulence in HII regions) and stellar kinematics. Get gas metallicities too.
+
+Rampazzo 2005 gives an example of this. Can see the gas transfer from one galaxy to another.
+
+Would want [OII] and [SII] lines at low res; get O/H maps. May require lots of cubes to get all the lines, both emission and absorption.
+
+Mazzei 2013: SPH model with chemo-photometric information. Constrain SED, dynamics and morphology (*model everything?!*).
+
+Simard: can we build a chronometer of group interaction? This would be the goal.
