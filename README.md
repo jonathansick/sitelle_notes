@@ -650,4 +650,38 @@ Star forming galaxies are smoother than expected: not clumpy as you'd expect fro
 
 SITELLE: even with 2x2 binning can spatially sample individual galaxies in the system extremely well.
 
+## Exploring dense galaxy environment (Iglesias Páramo)
+
+Morphology-density relation and star formation-density relations. Is SF-density relation a consequence of morphology-density relation: NO, said Lewis 2002.
+
+Koopman and Kenney 2004: sizes of Halpha disks in Virgo spirals smaller than those of field spirals: Ram pressure stripping?
+
+Processes:
+
+1. Ram Pressure: ISM removed from disk (Gunn and Gott 1972). Kronberger 2008 shows that ram pressure can enhance SF by a factor 3.
+2. Starvation: removes host gas of halo (Larson 1980).
+3. Galaxy harassment.
+
+Bekki 2009 models both hot and cold gas processes in clusters.
+
+Gavazzi 2001 sees Halpha tails extending 75 kpc from two galaxies in an Abell cluster.
+
+Modern observations of clusters:
+
+- multi-fibre: biased observations of large galaxies (don't sample whole galaxies). Often miss dwarf galaxies
+- Broad or narrowband imaging: lack spectral information.
+- Long-slit: again have spatially biased spectral information. Hard to get dwarfs.
+
+SITELLE: wide-field, full spatial coverage. Can get all galaxies, plus filaments. Still, Hercules cluster requires lots of SITELLE pointings. But a 'Hercules-like' cluster at z=0.1 takes just 7 SITELLE pointings to cover entire virial radius. Wants Halpha (and [NII]) to get SF statistics. To get chemical evolution also want Hbeta, [OIII], [OII], [SII]. Probably need three filters. More generally would want a:
+
+- Washingston C
+- SDSS g'
+- Johnson-Cousins VRI
+
+to support a starformation/chemical evolution study of clusters. Need R~1000-1500.
+
+Laurent: problem is that SDSS filters are too broadband. Trick is that there are many clusters at many redshifts. We probably want mid-band filters.
+
+## Isolated E+S Galaxy Pairs (Henri Plana)
+
 
