@@ -2,6 +2,8 @@
 
 *Notes from the SITELLE Workshop, May 12 — 14, 2013.* Let me know if I've mis-represented anything. Submit an issue/pull request!
 
+Update: [Talks are now available on-line](http://www.craq-astro.ca/sitelle/talk.php).
+
 ****
 
 # Sunday Morning
